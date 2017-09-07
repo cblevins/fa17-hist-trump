@@ -1,0 +1,45 @@
+---
+layout: page
+title: Assignments
+permalink: /assignments/
+order: 3
+---
+
+**Participation and Attendance (25%)**
+
+Students are to attend each class having completed the readings or other assignments and be prepared to discuss them. One unexcused absence is allowed per semester, after which any absences will require documentation. See course policies for more information.
+
+**Primary Source Evaluation (10%)**
+
+Close reading and analysis of a primary source (approximately 750 words). *Due Friday, September 29 at 5PM.*
+
+**Archives Assignment (10%)**
+
+Written report describing a collection from the Northeastern University Archives and its contents (approximately 1250 words). *Due Friday, October 6 at 5PM.*
+
+**Presentation of Trump Primary Source (10%)**
+
+Presentation of a primary source (tweet, memo, speech, press statement, etc.) produced by the Trump administration from the prior week (5-7 minutes). *Due between Weeks 3 and 13.*
+
+*Due Wednesday, February 17th.*
+
+**Book Précis (10%)** 
+
+Summary of a secondary source related to student’s final research topic (750 words). *Due Sunday October 29 at 5PM.*
+
+**Book Review (10%)**
+
+Critical analysis of a book related to student’s final research topic (1000-1250 words). *Due Friday November 10 at 5PM.* 
+
+**Podcast Episode (5%)**
+
+Recorded conversation with another student interviewing each other about your respective research projects (20-30 minutes). *Due Sunday December 3 at 5PM.*
+
+**Research Prospectus (20%)** - Draft 10%, Final 10%
+
+Prospectus of a research project that includes: introduction with overview of project and thesis statement (500-750 words), literature review (1000-1250 words), potential outline (500 words), and bibliography of secondary and primary sources. 
+-	*Draft Prospectus Due Friday, December 1 at 5PM.*
+-	*Final Prospectus Due Sunday, December 10 at 5PM.*
+
+
+
