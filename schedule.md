@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-order: 2
+order: 4
 ---
 
 **Week 1: Getting Oriented**
@@ -12,7 +12,7 @@ September 6: Introductions
 **Week 2: Getting Our Feet Wet**
 
 September 11: History, Memory, and Charlottesville
--	[How to Read a Primary Source handout]({{site.baseurl}}/HowToReadPrimarySources.pdf)
+-	[How to Read a Primary Source handout]({{site.baseurl}}/downloads/HowToReadPrimarySources.pdf)
 -	John Daniel Davidson, [“Why We Should Keep The Confederate Monuments Right Where They Are”](http://thefederalist.com/2017/08/18/in-defense-of-the-monuments/), *The Federalist*, August 18 2017.
 -	Karen L. Cox, [“The whole point of Confederate monuments is to celebrate white supremacy”](http://wapo.st/2uOXelp), *The Washington Post*, August 16, 2017.
 

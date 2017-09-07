@@ -1,13 +1,24 @@
 ---
 layout: default
-<title: About>
+title: About
 permalink: /
 order: 1
 ---
 
+{:refdef: text-align: center;}
+HIST 1200/1201: History and Trump \\
+Professor Cameron Blevins \\
+Northeastern University, Fall 2017 \\
+456 Ryder Hall, Mon/Wed 2:50-4:30pm
+{: refdef}
+
 **Course Description**
 
 Welcome to Northeastern’s history department! This course will introduce you to the practice of studying history: analyzing sources, evaluating arguments, interpreting evidence, writing and communicating, and conducting original research. You will learn these historical skills from a very modern starting point: Donald Trump and his presidency. This class is not a biography or history of Trump specifically, but rather the longer historical context behind some of the themes and topics related to his presidency. We will use current events as a jumping-off point to learn how to study the past. How does the promise to “build the wall” between the United States and Mexico echo earlier attempts to curtail immigration? In what ways is it a departure from the past? When Trump proclaims himself the “law and order” president, how does this situate his presidency within a longer history of mass incarceration? Over the course of the semester students will become detectives, learning the skills of a historian to uncover the backstory behind current events and the ways the past continues to shape the present world.
+
+{:refdef: style="text-align: center;"}
+![Trump](/images/trump_whitehouse.jpg)
+{: refdef}
 
 **Learning Goals**
 
