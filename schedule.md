@@ -12,7 +12,7 @@ September 6: Introductions
 **Week 2: Getting Our Feet Wet**
 
 September 11: History, Memory, and Charlottesville
--	How to Read a Primary Source handout
+-	[How to Read a Primary Source handout]({{site.baseurl}}/HowToReadPrimarySources.pdf)
 -	John Daniel Davidson, [“Why We Should Keep The Confederate Monuments Right Where They Are”](http://thefederalist.com/2017/08/18/in-defense-of-the-monuments/), *The Federalist*, August 18 2017.
 -	Karen L. Cox, [“The whole point of Confederate monuments is to celebrate white supremacy”](http://wapo.st/2uOXelp), *The Washington Post*, August 16, 2017.
 
@@ -55,12 +55,12 @@ Reading:
 -	Read [“Methodology”](https://mediabiasfactcheck.com/methodology/) section of Media Bias / Fact Check.
 -	Michael Patrick Leahy, [“Donald Trump Won 7.5 Million Popular Vote Landslide in Heartland”](http://www.breitbart.com/big-government/2016/11/15/donald-trump-won-7-5-million-popular-vote-landslide-mainstream-america/), *Breitbart*, November 15, 2016.
 -	Ben Casselman, [“Stop Saying Trump’s Win Had Nothing To Do With Economics”](https://fivethirtyeight.com/features/stop-saying-trumps-win-had-nothing-to-do-with-economics/), *FiveThirtyEight*, January 9, 2017.
--	Emma Green, [“It Was Cultural Anxiety That Drove White, Working-Class Voters to Trump”](https://www.theatlantic.com/politics/archive/2017/05/white-working-class-trump-cultural-anxiety/525771/) *The Atlantic*
+-	Emma Green, [“It Was Cultural Anxiety That Drove White, Working-Class Voters to Trump”](https://www.theatlantic.com/politics/archive/2017/05/white-working-class-trump-cultural-anxiety/525771/) *The Atlantic*, May 9, 2017.
 
 October 4: Interpretations (Historical)
 Reading: 
--	Richard Jensen, “‘No Irish Need Apply’: A Myth of Victimization,” *Journal of Social History*, 2002, Vol.36(2), pp. 405-429. 
--	Rebecca Field, “No Irish Need Deny: Evidence for the Historicity of NINA Restrictions in Advertisements and Signs” *Journal of Social History*, 2016, Vol.49(4), pp. 829-852.
+-	Richard Jensen, “‘No Irish Need Apply’: A Myth of Victimization,” *Journal of Social History*, 2002, Vol.36 (2), pp. 405-429. 
+-	Rebecca Field, “No Irish Need Deny: Evidence for the Historicity of NINA Restrictions in Advertisements and Signs,” *Journal of Social History*, 2016, Vol.49 (4), pp. 829-852.
 
 *Due Friday, October 6: Archives Trip Assignment*
 
