@@ -28,7 +28,7 @@ September 13: Sourcing, Historical and Contemporary
 **Week 3: Primary Sources I**
 
 September 18: Immigration (Nineteenth Century)
--	Listen to Episode #0180: [“On the Outs”](http://backstoryradio.org/shows/on-the-outs/), *Backstory* podcast, February 2 2017.
+-	Listen to first 14:30 of Episode #0184: [“Border Patrols: Policing Immigration in America”](http://backstoryradio.org/shows/border-patrols), *BackStory* podcast, March 9, 2017.
 -	Primary source packet (distributed by the professor)
 
 September 20: Library Scavenger Hunt (meet at Snell Library)
