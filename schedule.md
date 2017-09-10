@@ -55,7 +55,7 @@ October 2: Interpretations (Contemporary)
 
 October 4: Interpretations (Historical) 
 -	Richard Jensen, “‘No Irish Need Apply’: A Myth of Victimization,” *Journal of Social History*, 2002, Vol.36 (2), pp. 405-429. 
--	Rebecca Field, “No Irish Need Deny: Evidence for the Historicity of NINA Restrictions in Advertisements and Signs,” *Journal of Social History*, 2016, Vol.49 (4), pp. 829-852.
+-	Rebecca Fried, “No Irish Need Deny: Evidence for the Historicity of NINA Restrictions in Advertisements and Signs,” *Journal of Social History*, 2016, Vol.49 (4), pp. 829-852.
 
 *Due Friday, October 6: Archives Trip Assignment*
 

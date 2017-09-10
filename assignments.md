@@ -11,7 +11,7 @@ Students are to attend each class having completed the readings or other assignm
 
 **Primary Source Evaluation (10%)**
 
-Close reading and analysis of a primary source (approximately 750 words). *Due Friday, September 29 at 5PM.*
+Close reading and analysis of a primary source (approximately 750-1,000 words). *Due Friday, September 29 at 5PM.*
 
 **Archives Assignment (10%)**
 
