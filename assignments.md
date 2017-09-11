@@ -19,7 +19,7 @@ Written report describing a collection from the Northeastern University Archives
 
 **Presentation of Trump Primary Source (10%)**
 
-Presentation of a primary source (tweet, memo, speech, press statement, etc.) produced by the Trump administration from the prior week (5-7 minutes). *Due between Weeks 3 and 13.*
+Presentation of a primary source (tweet, memo, speech, press statement, etc.) produced by the Trump administration from the prior week (5-7 minutes). *Due between Weeks 3 and 13.* Download the [assignment]({{site.baseurl}}/downloads/presentation-assignment.pdf), the [primary source worksheet]({{site.baseurl}}/downloads/primary-source-worksheet.pdf), and [the rubric]({{site.baseurl}}/downloads/presentation-rubric.pdf) I will use.
 
 *Due Wednesday, February 17th.*
 
