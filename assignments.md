@@ -9,9 +9,9 @@ order: 3
 
 Students are to attend each class having completed the readings or other assignments and be prepared to discuss them. One unexcused absence is allowed per semester, after which any absences will require documentation. See course policies for more information.
 
-**Primary Source Evaluation (10%)**
+**Primary Source Analysis (10%)**
 
-Close reading and analysis of a primary source (approximately 750-1,000 words). *Due Friday, September 29 at 5PM.*
+Close reading and analysis of a primary source (approximately 750-1,000 words). Download the [assignment]({{site.baseurl}}/downloads/primary-source-analysis.pdf) and [rubric]({{site.baseurl}}/downloads/writing-rubric.pdf). *Due Friday, September 29 at 5PM.*
 
 **Archives Assignment (10%)**
 

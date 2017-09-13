@@ -2,7 +2,7 @@
 layout: page
 title: Policies
 permalink: /policies/
-order: 4
+order: 2
 --- 
 
 **Attendance**
