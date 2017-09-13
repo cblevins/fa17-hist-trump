@@ -21,8 +21,6 @@ September 13: Sourcing, Historical and Contemporary
 -	Perry Bacon Jr., [“When To Trust A Story That Uses Unnamed Sources”](https://fivethirtyeight.com/features/when-to-trust-a-story-that-uses-unnamed-sources/), *FiveThirtyEight*, July 18, 2017. 
 -	Come to class with at least three themes or topics that are relevant to the Trump Presidency that you are interested in learning more about.
 
-*Due Sunday September 17: Selection of Research Track / Theme for the semester*
-
 #### Unit I. “Build the Wall”: Immigration in U.S. History
 
 **Week 3: Primary Sources I**
@@ -32,6 +30,8 @@ September 18: Immigration (Nineteenth Century)
 -	Primary source packet (distributed by the professor)
 
 September 20: Library Scavenger Hunt (meet at Snell Library)
+
+*Due Friday, September 22 by 5PM: Selection of Research Track / Theme for the semester: Two paragraphs about why you chose this theme and 1-2 more specific research topics you might want to investigate within it.*
 
 **Week 4: Primary Sources II**
 
