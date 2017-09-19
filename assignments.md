@@ -15,7 +15,7 @@ Close reading and analysis of a primary source (approximately 750-1,000 words). 
 
 **Archives Assignment (10%)**
 
-Written report describing a collection from the Northeastern University Archives and its contents (approximately 1250 words). *Due Friday, October 6 at 5PM.*
+Written report describing a collection from the Northeastern University Archives and its contents (approximately 1250 words). *Due Tuesday, October 10 at 5PM.*
 
 **Presentation of Trump Primary Source (10%)**
 

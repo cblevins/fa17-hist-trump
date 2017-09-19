@@ -31,7 +31,8 @@ September 18: Immigration (Nineteenth Century)
 
 September 20: Library Scavenger Hunt (meet at Snell Library)
 
-*Due Friday, September 22 by 5PM: Selection of Research Track / Theme for the semester: Two paragraphs about why you chose this theme and 1-2 more specific research topics you might want to investigate within it.*
+*Due Friday, September 22 by 5PM: Selection of Research Track / Theme for the semester. 
+Email me: a) the theme, b) one current event or contemporary incident related to it, c) why you chose this theme and what interests you about it, and d) 1-2 ideas for a more specific topic or historical question you might want to investigate within it.*
 
 **Week 4: Primary Sources II**
 
@@ -57,18 +58,18 @@ October 4: Interpretations (Historical)
 -	Richard Jensen, “‘No Irish Need Apply’: A Myth of Victimization,” *Journal of Social History*, 2002, Vol.36 (2), pp. 405-429. 
 -	Rebecca Fried, “No Irish Need Deny: Evidence for the Historicity of NINA Restrictions in Advertisements and Signs,” *Journal of Social History*, 2016, Vol.49 (4), pp. 829-852.
 
-*Due Friday, October 6: Archives Trip Assignment*
-
 **Week 6: Historical Research**
 
 October 9: [Columbus Day, no class]
+
+*Due Tuesday, October 10 by 5PM: Archives Trip Assignment*
 
 October 11: Workshop on Data Management, Choosing a Topic, Formulating a Question 
 -	Register for a Zotero account and download software at: <https://www.zotero.org/>. 
 -	Po-Yi Hung and Abigail Popp, ["Learning to Do Historical Research: A Primer How to Frame a Researchable Question"](http://williamcronon.net/researching/questions.htm)
 -	Brainstorm a list of three potential research questions you might want to pursue for your research project.
 
-*Due Friday October 13: Research Topic Idea*
+*Due Sunday, October 15: Research Topic Idea*
 
 #### Unit II. “This American Carnage Stops Right Here”: Law and Order
 
