@@ -27,7 +27,10 @@ September 13: Sourcing, Historical and Contemporary
 
 September 18: Immigration (Nineteenth Century)
 -	Listen to first 14:30 of Episode #0184: [“Border Patrols: Policing Immigration in America”](http://backstoryradio.org/shows/border-patrols), *BackStory* podcast, March 9, 2017.
--	Primary source packet (distributed by the professor)
+-	Primary source packet (distributed by the professor):
+1. [Political Cartoons by Thomas Nast and George Frederick Keller]({{site.baseurl}}/downloads/NastKellerCartoons.docx)
+2. [Dennis Kearney and H. L. Knight, "The Chinese Invasion"]({{site.baseurl}}/downloads/KearneyKnight_TheChineseInvasion.docx)
+3. [Lee Chew, "The Biography of a Chinaman"]({{site.baseurl}}/downloads/Chew_TheBiographyOfAChinaman.docx)
 
 September 20: Library Scavenger Hunt (meet at Snell Library)
 
@@ -37,7 +40,8 @@ Email me: a) the theme, b) one current event or contemporary incident related to
 **Week 4: Primary Sources II**
 
 September 25: Twentieth-Century Immigration
--	Primary source packet (distributed by the professor)
+-	Listen to first 10:15 of Episode #212: ["The Melting Pot: Americans and Assimilation"](http://backstoryradio.org/shows/the-melting-pot), *BackStory* podcast, September 15, 2017.
+-	[Primary source packet]({{site.baseurl}}/downloads/PrimarySourcePacket_09-25-2017.docx) (distributed by the professor)
 
 September 27: Nuts and Bolts: Archives and Writing Workshop
 -	Come to class with the primary source that you have chosen for your first paper
