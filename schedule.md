@@ -43,24 +43,23 @@ September 25: Twentieth-Century Immigration
 -	Listen to first 10:15 of Episode #212: ["The Melting Pot: Americans and Assimilation"](http://backstoryradio.org/shows/the-melting-pot), *BackStory* podcast, September 15, 2017.
 -	[Primary source packet]({{site.baseurl}}/downloads/PrimarySourcePacket_09-25-2017.docx) (distributed by the professor)
 
-September 27: Nuts and Bolts: Archives and Writing Workshop
+September 27: Twentieth-Century Immigration, Workshop, and Archives
+-	Ronald Reagan, "[Statement on United States Immigration and Refugee Policy](http://www.presidency.ucsb.edu/ws/?pid=44128)," July 30, 1981.
 -	Come to class with the primary source that you have chosen for your first paper
--	Download and install Tropy software <https://tropy.org/>
+-	Download and install Tropy software on your computer: <https://tropy.org/>.
 
 *Due Friday, September 29: Primary Source Analysis*
 
 **Week 5: Secondary Sources and Interpretation**
 
 October 2: Interpretations (Contemporary)
--	How to Read a Secondary Source handout
--	Read [“Methodology”](https://mediabiasfactcheck.com/methodology/) section of Media Bias / Fact Check.
 -	Michael Patrick Leahy, [“Donald Trump Won 7.5 Million Popular Vote Landslide in Heartland”](http://www.breitbart.com/big-government/2016/11/15/donald-trump-won-7-5-million-popular-vote-landslide-mainstream-america/), *Breitbart*, November 15, 2016.
 -	Ben Casselman, [“Stop Saying Trump’s Win Had Nothing To Do With Economics”](https://fivethirtyeight.com/features/stop-saying-trumps-win-had-nothing-to-do-with-economics/), *FiveThirtyEight*, January 9, 2017.
 -	Emma Green, [“It Was Cultural Anxiety That Drove White, Working-Class Voters to Trump”](https://www.theatlantic.com/politics/archive/2017/05/white-working-class-trump-cultural-anxiety/525771/) *The Atlantic*, May 9, 2017.
 
 October 4: Interpretations (Historical) 
--	Richard Jensen, “‘No Irish Need Apply’: A Myth of Victimization,” *Journal of Social History*, 2002, Vol.36 (2), pp. 405-429. 
--	Rebecca Fried, “No Irish Need Deny: Evidence for the Historicity of NINA Restrictions in Advertisements and Signs,” *Journal of Social History*, 2016, Vol.49 (4), pp. 829-852.
+-	[Article abstract]({{site.baseurl}}/downloads/Jensen_NoIrishNeedApply_abstract.pdf) for Richard Jensen, “‘No Irish Need Apply’: A Myth of Victimization,” *Journal of Social History*, 2002, Vol. 36 (2), pp. 405-429. 
+-	Rebecca Fried, “[No Irish Need Deny: Evidence for the Historicity of NINA Restrictions in Advertisements and Signs](https://academic.oup.com/jsh/article-lookup/doi/10.1093/jsh/shv066),” *Journal of Social History*, 2016, Vol. 49 (4), pp. 829-852.
 
 **Week 6: Historical Research**
 
