@@ -76,27 +76,26 @@ October 11: Workshop on Data Management, Choosing a Topic, Formulating a Questio
 
 #### Unit II. “This American Carnage Stops Right Here”: Law and Order
 
-**Week 7: Evidence**
+**Week 7**
 
-October 16: Stories
+October 16: Stories and Numbers
 -	Donald Trump’s acceptance speech at the Republican convention [selections]
--	Jeff Sessions, [“Memorandum for All Federal Prosecutors: Commitment to Targeting Violent Crime”](https://www.justice.gov/opa/press-release/file/946771/download) March 8, 2017.
-
-October 18: Numbers 
--	[“America's murder rate is rising at its fastest pace since the early 1970s”](https://www.economist.com/news/united-states/21716056-analysis-50-cities-economist-americas-murder-rate-rising-its-fastest) *The Economist*, February 4, 2017.
 -	Louis Jacobson, [“Donald Trump wrong that murder rate is highest in 47 years”](http://www.politifact.com/truth-o-meter/statements/2017/feb/08/donald-trump/donald-trump-wrong-murder-rate-highest-47-years/) *PolitiFact*, February 8, 2017.
 
-**Week 8: The Monograph**
+October 18: Reading Workshop
+-	Lisa McGirr, *The War on Alcohol: Prohibition and the Rise of the American State* (Introduction)
 
-October 23: The War on Drugs
--	Elizabeth Hinton, From the War on Poverty to the War on Drugs (Introduction, Chapters 1-5)
+**Week 8: Reading a History Book**
 
-October 25: The War on Drugs & Writing Workshop 
--	Elizabeth Hinton, From the War on Poverty to the War on Drugs (Chapters 6-9, Epilogue)
+October 23: The Monograph I
+-	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Introduction, Chapters 1-4)
+
+October 25: The Monograph II
+-	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Chapters 5-9, Epilogue)
 
 *Due Sunday, October 29: Précis of Book*
 
-**Week 9: Historians vs. Historians**
+**Week 9**
 
 October 30: Book Reviews
 -	Donna Murch, [“Who’s to Blame for Mass Incarceration?”](http://bostonreview.net/books-ideas/donna-murch-michael-javen-fortner-black-silent-majority), *Boston Review*, October 16, 2015. Review of Michael Javen Fortner, *Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment* (Harvard University Press, 2015). 
@@ -107,7 +106,8 @@ November 1: History and Punditry
 -	Julian Zelizer and Morton Keller, [“Why (Some) Historians Should be Pundits”](https://www.theatlantic.com/politics/archive/2017/06/what-is-the-role-of-historians-under-the-trump-presidency/531729/), *The Atlantic*, June 26, 2017. 
 -	Josh Zeitz, [“How Trump is Recycling Nixon’s ‘Law and Order’ Playbook”](http://www.politico.com/magazine/story/2016/07/donald-trump-law-and-order-richard-nixon-crime-race-214066), *Politico Magazine*, July 18, 2016.
 
-#### Unit III. Topic TBD
+
+#### Unit III. Students' Choice
 
 **Week 10: TBD**
 
@@ -117,25 +117,27 @@ November 8: TBD
 
 *Due Friday November 10: Book Review related to your topic*
 
-**Week 11: TBD**
+#### Unit IV. Putting it All Together
 
-November 13: TBD
+**Week 11**
 
-November 15: Alternative Forms of History: Wikipedia
+November 13: Public History
+
+November 15: Wikipedia
 - Make a Wikipedia account and then go through [three online student training modules](https://outreachdashboard.wmflabs.org/training/editing-wikipedia): Wikipedia Essentials, Editing Basics, Evaluating Articles and Sources
 
 **Week 12: TBD**
 
-November 20: TBD
+November 20: Public History
 
 November 22: [No Class – Thanksgiving Break]
 
 **Week 13: Putting it all Together**
 
-November 27: Alternative Forms of History
+November 27: Other Forms of History: Podcasting
 -	Listen to at least two episodes of a history podcast of your choosing.
 
-November 29: Writing & Podcasting Workshop
+November 29: Workshop
 -	Come to class with your thesis statement written and a draft of your bibliography
 
 *Due Friday, December 1 by 11:59PM: Draft of Prospectus*
