@@ -72,52 +72,49 @@ October 11: Workshop on Data Management, Choosing a Topic, Formulating a Questio
 -	Po-Yi Hung and Abigail Popp, ["Learning to Do Historical Research: A Primer How to Frame a Researchable Question"](http://williamcronon.net/researching/questions.htm)
 -	Brainstorm a list of three potential research questions you might want to pursue for your research project.
 
-*Due Sunday, October 15: Research Topic Idea*
+*Due Sunday, October 15, by 5PM: Email me your final research topic and two specific research questions*
 
 #### Unit II. “This American Carnage Stops Right Here”: Law and Order
 
 **Week 7**
 
 October 16: Stories and Numbers
--	Donald Trump’s acceptance speech at the Republican convention [selections]
+-	[Donald J. Trump Republican Nomination Acceptance Speech (as prepared for delivery), pp. 1-4, 12-18.]({{site.baseurl}}/downloads/DJT_Acceptance_Speech.pdf)
 -	Louis Jacobson, [“Donald Trump wrong that murder rate is highest in 47 years”](http://www.politifact.com/truth-o-meter/statements/2017/feb/08/donald-trump/donald-trump-wrong-murder-rate-highest-47-years/) *PolitiFact*, February 8, 2017.
 
 October 18: Reading Workshop
--	Lisa McGirr, *The War on Alcohol: Prohibition and the Rise of the American State* (Introduction)
+-	Lisa McGirr, *The War on Alcohol: Prohibition and the Rise of the American State* (Preface)
 
-**Week 8: Reading a History Book**
+**Week 8**
 
-October 23: The Monograph I
+October 23: Monograph (I)
 -	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Introduction, Chapters 1-4)
 
-October 25: The Monograph II
--	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Chapters 5-9, Epilogue)
+October 25: Film
 
 *Due Sunday, October 29: Précis of Book*
 
 **Week 9**
 
-October 30: Book Reviews
--	Donna Murch, [“Who’s to Blame for Mass Incarceration?”](http://bostonreview.net/books-ideas/donna-murch-michael-javen-fortner-black-silent-majority), *Boston Review*, October 16, 2015. Review of Michael Javen Fortner, *Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment* (Harvard University Press, 2015). 
--	Michael Javen Fortner response to Donna Murch: [“Historical Method and the Noble Lie: A Reply to Donna Murch”](http://bostonreview.net/books-ideas/response-michael-javen-fortner-donna-murch-black-silent-majority), *Boston Review*, October 23, 2015. 
+October 30: Monograph (II)
+-	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Chapters 5-9, Epilogue)
 
 November 1: History and Punditry
 -	Moshik Temkin, [“Historians Shouldn’t Be Pundits”](https://www.nytimes.com/2017/06/26/opinion/trump-nixon-history.html), *New York Times*, June 26, 2017.
 -	Julian Zelizer and Morton Keller, [“Why (Some) Historians Should be Pundits”](https://www.theatlantic.com/politics/archive/2017/06/what-is-the-role-of-historians-under-the-trump-presidency/531729/), *The Atlantic*, June 26, 2017. 
 -	Josh Zeitz, [“How Trump is Recycling Nixon’s ‘Law and Order’ Playbook”](http://www.politico.com/magazine/story/2016/07/donald-trump-law-and-order-richard-nixon-crime-race-214066), *Politico Magazine*, July 18, 2016.
 
+**Week 10:**
 
-#### Unit III. Students' Choice
-
-**Week 10: TBD**
-
-November 6: TBD
+November 6: Book Reviews
+-	Donna Murch, [“Who’s to Blame for Mass Incarceration?”](http://bostonreview.net/books-ideas/donna-murch-michael-javen-fortner-black-silent-majority), *Boston Review*, October 16, 2015. Review of Michael Javen Fortner, *Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment* (Harvard University Press, 2015). 
+-	Michael Javen Fortner response to Donna Murch: [“Historical Method and the Noble Lie: A Reply to Donna Murch”](http://bostonreview.net/books-ideas/response-michael-javen-fortner-donna-murch-black-silent-majority), *Boston Review*, October 23, 2015. 
 
 November 8: TBD
 
-*Due Friday November 10: Book Review related to your topic*
+*Due Monday November 12: Book Review related to your topic*
 
-#### Unit IV. Putting it All Together
+#### Unit III. Putting it All Together
 
 **Week 11**
 
