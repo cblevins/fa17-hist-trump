@@ -90,29 +90,30 @@ October 18: Reading Workshop
 October 23: Monograph (I)
 -	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Introduction, Chapters 1-4)
 
-October 25: Film
-
-*Due Sunday, October 29: Précis of Book*
+October 25: Documentary
+- In-class viewing: Ava DuVernay, *13th*
 
 **Week 9**
 
 October 30: Monograph (II)
 -	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Chapters 5-9, Epilogue)
 
-November 1: History and Punditry
--	Moshik Temkin, [“Historians Shouldn’t Be Pundits”](https://www.nytimes.com/2017/06/26/opinion/trump-nixon-history.html), *New York Times*, June 26, 2017.
--	Julian Zelizer and Morton Keller, [“Why (Some) Historians Should be Pundits”](https://www.theatlantic.com/politics/archive/2017/06/what-is-the-role-of-historians-under-the-trump-presidency/531729/), *The Atlantic*, June 26, 2017. 
--	Josh Zeitz, [“How Trump is Recycling Nixon’s ‘Law and Order’ Playbook”](http://www.politico.com/magazine/story/2016/07/donald-trump-law-and-order-richard-nixon-crime-race-214066), *Politico Magazine*, July 18, 2016.
+*Due Tuesday, October 31: Précis of Book*
 
-**Week 10:**
+November 1: Documentary (II)
+- In-class viewing: Ava DuVernay, *13th*
+
+**Week 10**
 
 November 6: Book Reviews
 -	Donna Murch, [“Who’s to Blame for Mass Incarceration?”](http://bostonreview.net/books-ideas/donna-murch-michael-javen-fortner-black-silent-majority), *Boston Review*, October 16, 2015. Review of Michael Javen Fortner, *Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment* (Harvard University Press, 2015). 
 -	Michael Javen Fortner response to Donna Murch: [“Historical Method and the Noble Lie: A Reply to Donna Murch”](http://bostonreview.net/books-ideas/response-michael-javen-fortner-donna-murch-black-silent-majority), *Boston Review*, October 23, 2015. 
 
-November 8: TBD
+November 8: Punditry and Advocacy
+-	Moshik Temkin, [“Historians Shouldn’t Be Pundits”](https://www.nytimes.com/2017/06/26/opinion/trump-nixon-history.html), *New York Times*, June 26, 2017.
+-	Julian Zelizer and Morton Keller, [“Why (Some) Historians Should be Pundits”](https://www.theatlantic.com/politics/archive/2017/06/what-is-the-role-of-historians-under-the-trump-presidency/531729/), *The Atlantic*, June 26, 2017.
 
-*Due Monday November 12: Book Review related to your topic*
+*Due Tuesday November 14th by 5PM: Book Review related to your topic*
 
 #### Unit III. Putting it All Together
 
@@ -131,7 +132,7 @@ November 22: [No Class – Thanksgiving Break]
 
 **Week 13: Putting it all Together**
 
-November 27: Other Forms of History: Podcasting
+November 27: Podcasting
 -	Listen to at least two episodes of a history podcast of your choosing.
 
 November 29: Workshop

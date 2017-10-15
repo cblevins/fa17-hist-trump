@@ -23,11 +23,11 @@ Presentation of a primary source (tweet, memo, speech, press statement, etc.) pr
 
 **Book Précis (10%)** 
 
-Summary of a secondary source related to student’s final research topic (750 words). *Due Sunday October 29 at 5PM.*
+Summary of a secondary source related to student’s final research topic (750 words). *Due Tuesday October 31 at 5PM.*
 
 **Book Review (10%)**
 
-Critical analysis of a book related to student’s final research topic (1000-1250 words). *Due Friday November 10 at 5PM.* 
+Critical analysis of a book related to student’s final research topic (1000-1250 words). *Due Tuesday November 14 at 5PM.* 
 
 **Podcast Episode (5%)**
 
