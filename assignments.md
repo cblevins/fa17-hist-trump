@@ -23,7 +23,7 @@ Presentation of a primary source (tweet, memo, speech, press statement, etc.) pr
 
 **Book Précis (10%)** 
 
-Summary of a secondary source related to student’s final research topic (750 words). *Due Tuesday October 31 at 5PM.*
+Summary of a secondary source related to student’s final research topic (750 words). *Due Tuesday October 31 at 5PM.* Download the [assignment]({{site.baseurl}}/downloads/precis.pdf).
 
 **Book Review (10%)**
 
