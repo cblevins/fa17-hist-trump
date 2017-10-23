@@ -87,11 +87,11 @@ October 18: Reading Workshop
 
 **Week 8**
 
-October 23: Monograph (I)
--	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Introduction, Chapters 1-4)
-
-October 25: Documentary
+October 23: Documentary
 - In-class viewing: Ava DuVernay, *13th*
+
+October 25: Monograph (I)
+-	Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Introduction, Chapters 1-4)
 
 **Week 9**
 
