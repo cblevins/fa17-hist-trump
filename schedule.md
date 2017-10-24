@@ -113,13 +113,13 @@ November 8: Punditry and Advocacy
 -	Moshik Temkin, [“Historians Shouldn’t Be Pundits”](https://www.nytimes.com/2017/06/26/opinion/trump-nixon-history.html), *New York Times*, June 26, 2017.
 -	Julian Zelizer and Morton Keller, [“Why (Some) Historians Should be Pundits”](https://www.theatlantic.com/politics/archive/2017/06/what-is-the-role-of-historians-under-the-trump-presidency/531729/), *The Atlantic*, June 26, 2017.
 
-*Due Tuesday November 14th by 5PM: Book Review related to your topic*
-
 #### Unit III. Putting it All Together
 
 **Week 11**
 
 November 13: Public History
+
+*Due Tuesday November 14th by 5PM: Book Review related to your topic*
 
 November 15: Wikipedia
 - Make a Wikipedia account and then go through [three online student training modules](https://outreachdashboard.wmflabs.org/training/editing-wikipedia): Wikipedia Essentials, Editing Basics, Evaluating Articles and Sources
