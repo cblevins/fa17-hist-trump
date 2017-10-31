@@ -27,7 +27,7 @@ Summary of a secondary source related to student’s final research topic (750 w
 
 **Book Review (10%)**
 
-Critical analysis of a book related to student’s final research topic (1000-1250 words). *Due Tuesday November 14 at 5PM.* 
+Critical analysis of a book related to student’s final research topic (1000 words). *Due Tuesday November 14 at 5PM.* Download the [assignment]({{site.baseurl}}/downloads/book-review.pdf).
 
 **Podcast Episode (5%)**
 

@@ -117,7 +117,7 @@ November 8: Punditry and Advocacy
 
 **Week 11**
 
-November 13: Public History
+November 13: Digital History
 
 *Due Tuesday November 14th by 5PM: Book Review related to your topic*
 
