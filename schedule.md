@@ -123,6 +123,7 @@ November 13: Digital History
 
 November 15: Wikipedia
 - Make a Wikipedia account and then go through [three online student training modules](https://outreachdashboard.wmflabs.org/training/editing-wikipedia): Wikipedia Essentials, Editing Basics, Evaluating Articles and Sources
+- Emma Paling, [Wikipedia's Hostility to Women](https://www.theatlantic.com/technology/archive/2015/10/how-wikipedia-is-hostile-to-women/411619/), *The Atlantic*, October 21, 2015.
 
 **Week 12: TBD**
 
@@ -146,7 +147,7 @@ November 29: Workshop
 
 December 4: Feedback
 -	Read your partner’s draft prospectus and come to class with written comments and feedback
--	Listen to one other group’s podcast
+-	Listen to one other group’s podcast and write a one-paragraph response. 
 
 December 6: Looking Backwards, Looking Forward
 
