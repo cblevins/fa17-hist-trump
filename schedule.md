@@ -106,24 +106,25 @@ November 1: Documentary (II)
 **Week 10**
 
 November 6: Book Reviews
--	Donna Murch, [“Who’s to Blame for Mass Incarceration?”](http://bostonreview.net/books-ideas/donna-murch-michael-javen-fortner-black-silent-majority), *Boston Review*, October 16, 2015. Review of Michael Javen Fortner, *Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment* (Harvard University Press, 2015). 
--	Michael Javen Fortner response to Donna Murch: [“Historical Method and the Noble Lie: A Reply to Donna Murch”](http://bostonreview.net/books-ideas/response-michael-javen-fortner-donna-murch-black-silent-majority), *Boston Review*, October 23, 2015. 
+- Donna Murch, [“Who’s to Blame for Mass Incarceration?”](http://bostonreview.net/books-ideas/donna-murch-michael-javen-fortner-black-silent-majority), *Boston Review*, October 16, 2015. Review of Michael Javen Fortner, *Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment* (Harvard University Press, 2015). 
+- Michael Javen Fortner response to Donna Murch: [“Historical Method and the Noble Lie: A Reply to Donna Murch”](http://bostonreview.net/books-ideas/response-michael-javen-fortner-donna-murch-black-silent-majority), *Boston Review*, October 23, 2015. 
 
 November 8: Punditry and Advocacy
--	Moshik Temkin, [“Historians Shouldn’t Be Pundits”](https://www.nytimes.com/2017/06/26/opinion/trump-nixon-history.html), *New York Times*, June 26, 2017.
--	Julian Zelizer and Morton Keller, [“Why (Some) Historians Should be Pundits”](https://www.theatlantic.com/politics/archive/2017/06/what-is-the-role-of-historians-under-the-trump-presidency/531729/), *The Atlantic*, June 26, 2017.
+- Josh Zeitz, ["How Trump Is Recycling Nixon’s ‘Law and Order’ Playbook"](https://www.politico.com/magazine/story/2016/07/donald-trump-law-and-order-richard-nixon-crime-race-214066), *Politico*, July 18, 2016.
+- Moshik Temkin, [“Historians Shouldn’t Be Pundits”](https://www.nytimes.com/2017/06/26/opinion/trump-nixon-history.html), *New York Times*, June 26, 2017.
 
 #### Unit III. Putting it All Together
 
 **Week 11**
 
 November 13: Digital History
+- Complete the [three online student training modules](https://outreachdashboard.wmflabs.org/training/editing-wikipedia): Wikipedia Essentials, Editing Basics, Evaluating Articles and Sources
 
 *Due Tuesday November 14th by 5PM: Book Review related to your topic*
 
 November 15: Wikipedia
-- Make a Wikipedia account and then go through [three online student training modules](https://outreachdashboard.wmflabs.org/training/editing-wikipedia): Wikipedia Essentials, Editing Basics, Evaluating Articles and Sources
 - Emma Paling, [Wikipedia's Hostility to Women](https://www.theatlantic.com/technology/archive/2015/10/how-wikipedia-is-hostile-to-women/411619/), *The Atlantic*, October 21, 2015.
+- Listen to first 9:30 of ["Truth and the World of Wikipedia Gatekeepers](http://www.npr.org/2012/02/22/147261659/gauging-the-reliability-of-facts-on-wikipedia), *NPR Talk of the Nation*, February 22, 2012.
 
 **Week 12: TBD**
 
