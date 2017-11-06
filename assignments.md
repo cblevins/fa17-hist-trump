@@ -35,7 +35,7 @@ Recorded conversation with another student interviewing each other about your re
 
 **Research Prospectus (20%)** - Draft 10%, Final 10%
 
-Prospectus of a research project that includes: introduction with overview of project and thesis statement (500-750 words), literature review (1000-1250 words), potential outline (500 words), and bibliography of secondary and primary sources. 
+Prospectus of a research project that includes: introduction with overview of project and thesis statement (500-750 words), literature review (1000-1250 words), potential outline (500 words), and bibliography of secondary and primary sources. Download the [assignment]({{site.baseurl}}/downloads/research-prospectus.pdf).
 -	*Draft Prospectus Due Friday, December 1 at 5PM.*
 -	*Final Prospectus Due Sunday, December 10 at 5PM.*
 
