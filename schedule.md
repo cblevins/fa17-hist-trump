@@ -117,16 +117,16 @@ November 8: Punditry and Advocacy
 
 **Week 11**
 
-November 13: Digital History
-- Complete the [three online student training modules](https://outreachdashboard.wmflabs.org/training/editing-wikipedia): Wikipedia Essentials, Editing Basics, Evaluating Articles and Sources
+November 13: History in the 21st Century
+- Emma Paling, [Wikipedia's Hostility to Women](https://www.theatlantic.com/technology/archive/2015/10/how-wikipedia-is-hostile-to-women/411619/), *The Atlantic*, October 21, 2015.
+- Listen to first 9:30 of ["Truth and the World of Wikipedia Gatekeepers](http://www.npr.org/2012/02/22/147261659/gauging-the-reliability-of-facts-on-wikipedia), *NPR Talk of the Nation*, February 22, 2012.
 
 *Due Tuesday November 14th by 5PM: Book Review related to your topic*
 
 November 15: Wikipedia
-- Emma Paling, [Wikipedia's Hostility to Women](https://www.theatlantic.com/technology/archive/2015/10/how-wikipedia-is-hostile-to-women/411619/), *The Atlantic*, October 21, 2015.
-- Listen to first 9:30 of ["Truth and the World of Wikipedia Gatekeepers](http://www.npr.org/2012/02/22/147261659/gauging-the-reliability-of-facts-on-wikipedia), *NPR Talk of the Nation*, February 22, 2012.
+- Complete the [three online student training modules](https://outreachdashboard.wmflabs.org/training/editing-wikipedia): Wikipedia Essentials, Editing Basics, Evaluating Articles and Sources
 
-**Week 12: TBD**
+**Week 12**
 
 November 20: Public History
 
