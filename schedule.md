@@ -129,13 +129,14 @@ November 15: Wikipedia
 **Week 12**
 
 November 20: Public History
+-	Kenneth Foote, *Shadowed Ground: America’s Landscapes of Violence and Tragedy* (Chapter 1: A Landscape of Violence and Tragedy)
 
 November 22: [No Class – Thanksgiving Break]
 
-**Week 13: Putting it all Together**
+**Week 13**
 
 November 27: Podcasting
--	Listen to at least two episodes of a history podcast of your choosing.
+-	Listen to [Episode 5: The Spin](http://uncivil.show/episode-the-spin.html) *Uncivil* podcast. Write a brief outline of the episode and its different components.
 
 November 29: Workshop
 -	Come to class with your thesis statement written and a draft of your bibliography
@@ -144,7 +145,7 @@ November 29: Workshop
 
 *Due Sunday, December 3 by 5:00PM: Podcast episode sent via email/Dropbox*
 
-**Week 14: Wrap Up**
+**Week 14**
 
 December 4: Feedback
 -	Read your partner’s draft prospectus and come to class with written comments and feedback
