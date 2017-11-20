@@ -31,7 +31,7 @@ Critical analysis of a book related to student’s final research topic (1000 wo
 
 **Podcast Episode (5%)**
 
-Recorded conversation with another student interviewing each other about your respective research projects (20-30 minutes). *Due Sunday December 3 at 5PM.*
+Recorded conversation with another student(s) interviewing each other about your respective research projects. *Due Sunday December 3 at 5PM.* Download the [assignment]({{site.baseurl}}/downloads/podcast.pdf)
 
 **Research Prospectus (20%)** - Draft 10%, Final 10%
 
