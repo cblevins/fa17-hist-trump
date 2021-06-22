@@ -212,20 +212,28 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.4.0)
+    mini_portile2 (2.5.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
+<<<<<<< HEAD
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     octokit (4.21.0)
+=======
+    nokogiri (1.11.4)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
+    octokit (4.19.0)
+>>>>>>> aebebb33fd0a51e2a42f4e0dd335bde4aca72dc0
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+<<<<<<< HEAD
     public_suffix (4.0.6)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
@@ -233,6 +241,16 @@ GEM
     rexml (3.2.5)
     rouge (3.26.0)
     ruby-enum (0.9.0)
+=======
+    public_suffix (3.1.1)
+    racc (1.5.2)
+    rb-fsevent (0.10.4)
+    rb-inotify (0.10.1)
+      ffi (~> 1.0)
+    rexml (3.2.5)
+    rouge (3.23.0)
+    ruby-enum (0.8.0)
+>>>>>>> aebebb33fd0a51e2a42f4e0dd335bde4aca72dc0
       i18n
     ruby2_keywords (0.0.4)
     rubyzip (2.3.0)
